@@ -1,4 +1,4 @@
 Cache
 ========
 
-This program determine size of cache
+This program determine size of cache levels
